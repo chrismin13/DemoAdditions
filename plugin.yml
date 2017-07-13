@@ -1,0 +1,5 @@
+name: DemoAdditions
+version: 1.0
+main: com.chrismin13.demoadditions.DemoAdditions
+depend: [ AdditionsAPI ]
+author: chrismin13
